@@ -1,0 +1,22 @@
+.regForm{
+width: 100%;
+max-width: 330px;
+padding:15px;
+margin: auto;
+height: 100%;
+}
+
+.textBoxStyle
+{
+  background-color: #ffffff;
+  width: 120px;
+  float: left;
+  margin-right: 20px;
+}
+.textBoxStyle2
+{
+  background-color: #ffffff;
+  width: 120px;
+  float: right;
+  margin-right: 20px;
+}
